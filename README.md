@@ -1,3 +1,3 @@
-# byungjp.github.io
+# This is BJ' Blog
 My Github Blogs
 
